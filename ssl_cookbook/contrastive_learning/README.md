@@ -8,4 +8,13 @@ augmenting (that is, augmenting an object whilst maintaining it's meaning) exist
 
 For example, you may have a grey-scale image $X \in \mathbb{R}^{m \times n}$ which can be 
 augmented through rotation, flipping, cropping, or adding noise. These augmentations create 
-different views of the same underlying image.
+different views of the same underlying image. And then a meaningful representation of these images
+can be learned by training a model to embed these varying views of the same image into a similar
+embedding.
+
+## Arbitrary Example
+The first example in this section, as with all other sections, is an extremely arbitrary example
+to illustrate the technique. We will download 
+
+## SimCLR
+The second example in this section reproduces the code and results from [Chen, et al [2]](https://arxiv.org/abs/2002.05709)

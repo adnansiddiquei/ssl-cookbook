@@ -3,6 +3,7 @@
 # Added by Adnan
 **/*/sandbox*.ipynb
 **/*/sandbox*.png
+**/*/data/*
 cache/
 out/
 wandb/

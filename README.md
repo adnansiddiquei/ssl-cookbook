@@ -15,4 +15,5 @@ and run `poetry install`, followed by `poetry shell` to install the depenedencie
 virtual environment.
 
 ## References
-[1] Balestriero, et al. "A Cookbook of Self-Supervised Learning." arXiv preprint arXiv:2304.12210 (2023). Available at: https://arxiv.org/abs/2304.12210
+[1] Balestriero, et al. (2023). A Cookbook of Self-Supervised Learning. [arXiv:2304.12210](https://arxiv.org/abs/2304.12210). 
+[2] Chen, et al. (2020). A Simple Framework for Contrastive Learning of Visual Representations. [arXiv:2002.05709](https://arxiv.org/abs/2002.05709)
